@@ -1,0 +1,6 @@
+premierModule:
+    path: /premierModule
+    defaults:
+        _controller: Drupal\premierModule\Controller\PremierModuleController::premierModule
+    requirements:
+        _permission: 'access content'

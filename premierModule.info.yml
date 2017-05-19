@@ -1,0 +1,5 @@
+name: Premier Module
+type: module
+description: Test pour créer des modules custom
+package: Custom
+core: 8.x
